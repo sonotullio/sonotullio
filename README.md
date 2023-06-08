@@ -19,11 +19,11 @@ https://tullio-forneris.it
 
 - 💻 &nbsp; Java | Groovy
 
-- 🌐 &nbsp; JavaScript |  | ReactJS | Node.js | Express.js
+- 🌐 &nbsp; JavaScript | TypeScript | React | Angular | Node | Express
 
 - 🖥 &nbsp; HTML | CSS  | Bootstrap | Tailwind CSS | Material UI | Figma
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL | Hibernate | MongoDB
 
 - 🔧 &nbsp; Git | Docker | AWS | Markdown
 
