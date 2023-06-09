@@ -31,7 +31,7 @@ https://tullio-forneris.it
 
 <br/><br/>
 
-[![Tullio GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonotullio&show_icons=true)](https://github.com/shivam0110)
+[![Tullio GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonotullio&show_icons=true)](https://github.com/sonotullio)
 
 <br/>
 
